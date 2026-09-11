@@ -2,3 +2,14 @@ fastapi>=0.100.0
 uvicorn>=0.22.0
 pydantic>=2.0.0
 email-validator>=2.0.0
+python-multipart>=0.0.6
+
+# Desarrollo (opcional)
+pytest>=7.0.0
+pytest-asyncio>=0.21.0
+requests>=2.31.0
+
+# Linting y formateo (opcional)
+black>=23.0.0
+flake8>=6.0.0
+mypy>=1.0.0
